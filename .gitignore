@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# mock images
+mock_maps_Sentinel2/
+.mock_maps_Sentinel2/
+mock_maps_LandSat8/
+.mock_maps_LandSat8/
+static/
+.static/
+
+# models
+old_models/
+.old_models/
+trained_models/
+.trained_models/
+
 # Distribution / packaging
 .Python
 build/
